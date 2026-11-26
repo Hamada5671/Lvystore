@@ -1,0 +1,15 @@
+{
+  "name": "TropicalParadiseHangoutWorld",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "WorldGenerator": {
+        "$path": "src/ServerScriptService/WorldGenerator.server.lua"
+      },
+      "TropicalParadiseModules": {
+        "$path": "src/ServerScriptService/TropicalParadiseModules"
+      }
+    }
+  }
+}
